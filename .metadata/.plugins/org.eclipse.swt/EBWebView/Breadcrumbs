@@ -1,154 +1,30 @@
-1:50:26 Tab20 StartNav138 #typed
-1:50:26 Tab20 FinishNav138
-1:50:26 Tab20 PageLoad
-1:50:38 Tab20 StartNav139 #typed
-1:50:38 Tab20 FinishNav139
-1:50:38 Tab20 PageLoad
-1:50:49 Tab20 StartNav140 #typed
-1:50:49 Tab20 FinishNav140
-1:50:49 Tab20 PageLoad
-1:51:09 Tab20 StartNav141 #typed
-1:51:09 Tab20 FinishNav141
-1:51:09 Tab20 PageLoad
-1:51:12 Tab20 StartNav142 #typed
-1:51:13 Tab20 FinishNav142
-1:51:13 Tab20 PageLoad
-1:51:39 Tab20 StartNav143 #typed
-1:51:39 Tab20 FinishNav143
-1:51:39 Tab20 PageLoad
-1:51:40 Tab20 StartNav144 #typed
-1:51:40 Tab20 FinishNav144
-1:51:40 Tab20 PageLoad
-1:51:46 Tab20 StartNav145 #typed
-1:51:46 Tab20 FinishNav145
-1:51:46 Tab20 PageLoad
-1:52:21 Tab20 StartNav146 #typed
-1:52:21 Tab20 FinishNav146
-1:52:21 Tab20 PageLoad
-1:52:29 Tab20 StartNav147 #typed
-1:52:29 Tab20 FinishNav147
-1:52:29 Tab20 PageLoad
-1:52:39 Tab20 StartNav148 #typed
-1:52:39 Tab20 FinishNav148
-1:52:39 Tab20 PageLoad
-1:52:49 Tab20 StartNav149 #typed
-1:52:49 Tab20 FinishNav149
-1:52:49 Tab20 PageLoad
-1:53:00 Tab20 StartNav150 #typed
-1:53:00 Tab20 FinishNav150
-1:53:00 Tab20 PageLoad
-1:53:46 Tab20 StartNav151 #typed
-1:53:46 Tab20 FinishNav151
-1:53:46 Tab20 PageLoad
-1:53:57 Tab20 StartNav152 #typed
-1:53:57 Tab20 FinishNav152
-1:53:57 Tab20 PageLoad
-1:54:04 Microsoft.Shutdown.OnWindowClosing
-1:54:04 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-1:54:04 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-1:54:04 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-1:54:04 Tab20 RenderProcessGone
-1:54:04 Browser20 Close Tab20 at 0
-1:54:04 Tab20 WebContentsDestroyed
-1:54:04 Microsoft.Shutdown.OnWindowClosing
-1:54:04 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-1:54:04 Widget Closed: BrowserFrame
-1:54:04 Microsoft.Shutdown.OnWindowClosing
-1:54:04 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-1:54:04 Microsoft.Browser_Removed
-1:59:12 Microsoft.NewBrowser_Popup
-1:59:12 Microsoft.BrowserList.AddBrowser
-1:59:12 Browser21 Insert active Tab21 at 0
-1:59:12 Tab21 StartNav153 #auto_toplevel
-1:59:12 Tab21 StartNav154 #typed
-1:59:13 Tab21 FinishNav153
-1:59:13 Tab21 PageLoad
-1:59:13 Tab21 FinishNav154
-1:59:13 Tab21 PageLoad
-1:59:14 Tab21 StartNav155 #typed
-1:59:14 Tab21 FinishNav155
-1:59:14 Tab21 PageLoad
-1:59:16 Tab21 StartNav156 #typed
-1:59:16 Tab21 FinishNav156
-1:59:16 Tab21 PageLoad
-1:59:18 Tab21 StartNav157 #typed
-1:59:18 Tab21 FinishNav157
-1:59:18 Tab21 PageLoad
-2:00:02 Tab21 StartNav158 #typed
-2:00:02 Tab21 FinishNav158
-2:00:02 Tab21 PageLoad
-2:00:09 Tab21 StartNav159 #typed
-2:00:09 Tab21 FinishNav159
-2:00:09 Tab21 PageLoad
-2:00:37 Tab21 StartNav160 #typed
-2:00:37 Tab21 FinishNav160
-2:00:37 Tab21 PageLoad
-2:00:38 Tab21 StartNav161 #typed
-2:00:38 Tab21 FinishNav161
-2:00:38 Tab21 PageLoad
-2:00:40 Tab21 StartNav162 #typed
-2:00:40 Tab21 FinishNav162
-2:00:40 Tab21 PageLoad
-2:00:46 Tab21 StartNav163 #typed
-2:00:46 Tab21 FinishNav163
-2:00:46 Tab21 PageLoad
-2:00:47 Tab21 StartNav164 #typed
-2:00:47 Tab21 FinishNav164
-2:00:47 Tab21 PageLoad
-2:00:53 Tab21 StartNav165 #typed
-2:00:53 Tab21 FinishNav165
-2:00:53 Tab21 PageLoad
-2:00:59 Tab21 StartNav166 #typed
-2:00:59 Tab21 FinishNav166
-2:00:59 Tab21 PageLoad
-2:01:13 Tab21 StartNav167 #typed
-2:01:13 Tab21 FinishNav167
-2:01:13 Tab21 PageLoad
-2:01:16 Tab21 StartNav168 #typed
-2:01:16 Tab21 FinishNav168
-2:01:16 Tab21 PageLoad
-2:01:19 Tab21 StartNav169 #typed
-2:01:19 Tab21 FinishNav169
-2:01:19 Tab21 PageLoad
-2:01:24 Tab21 StartNav170 #typed
-2:01:24 Tab21 FinishNav170
-2:01:24 Tab21 PageLoad
-2:01:27 Tab21 StartNav171 #typed
-2:01:27 Tab21 FinishNav171
-2:01:27 Tab21 PageLoad
-2:01:30 Tab21 StartNav172 #typed
-2:01:30 Tab21 FinishNav172
-2:01:30 Tab21 PageLoad
-2:01:35 Tab21 StartNav173 #typed
-2:01:35 Tab21 FinishNav173
-2:01:35 Tab21 PageLoad
-2:01:52 Tab21 StartNav174 #typed
-2:01:52 Tab21 FinishNav174
-2:01:52 Tab21 PageLoad
-2:01:55 Tab21 StartNav175 #typed
-2:01:55 Tab21 FinishNav175
-2:01:55 Tab21 PageLoad
-2:02:00 Tab21 StartNav176 #typed
-2:02:00 Tab21 FinishNav176
-2:02:00 Tab21 PageLoad
-2:02:05 Tab21 StartNav177 #typed
-2:02:05 Tab21 FinishNav177
-2:02:05 Tab21 PageLoad
-2:02:06 Tab21 StartNav178 #typed
-2:02:06 Tab21 FinishNav178
-2:02:06 Tab21 PageLoad
-2:02:08 Tab21 StartNav179 #typed
-2:02:08 Tab21 FinishNav179
-2:02:08 Tab21 PageLoad
-2:02:42 Tab21 StartNav180 #typed
-2:02:42 Tab21 FinishNav180
-2:02:42 Tab21 PageLoad
-2:02:47 Tab21 StartNav181 #typed
-2:02:47 Tab21 FinishNav181
-2:02:47 Tab21 PageLoad
-2:03:01 Tab21 StartNav182 #typed
-2:03:01 Tab21 FinishNav182
-2:03:01 Tab21 PageLoad
-2:03:12 Tab21 StartNav183 #typed
-2:03:12 Tab21 FinishNav183
-2:03:12 Tab21 PageLoad
+0:38:23 Tab8 RenderProcessGone
+0:38:23 Browser8 Close Tab8 at 0
+0:38:23 Tab8 WebContentsDestroyed
+0:38:23 Microsoft.Shutdown.OnWindowClosing
+0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:38:23 Widget Closed: BrowserFrame
+0:38:23 Microsoft.Shutdown.OnWindowClosing
+0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:38:23 Microsoft.Browser_Removed
+0:38:23 Microsoft.Shutdown.OnWindowClosing
+0:38:23 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:38:23 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:38:23 Tab1 RenderProcessGone
+0:38:23 Browser1 Close Tab1 at 0
+0:38:23 Tab1 WebContentsDestroyed
+0:38:23 Microsoft.Shutdown.OnWindowClosing
+0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:38:23 Widget Closed: BrowserFrame
+0:38:23 Microsoft.Shutdown.OnWindowClosing
+0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:38:23 Microsoft.Last_Browser_Removed
+0:38:23 Microsoft.Shutdown.ShutdownIfNoBrowsers
+0:38:23 Microsoft.Shutdown.SetTryingToQuit_Quitting
+0:38:23 Microsoft.Shutdown.NotifyAppTerminating
+0:38:23 Microsoft.Shutdown.OnAppExiting
+0:38:23 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
+0:38:23 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
+0:38:23 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
+0:38:23 Shutdown
