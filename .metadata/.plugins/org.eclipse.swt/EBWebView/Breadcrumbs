@@ -1,30 +1,143 @@
-0:38:23 Tab8 RenderProcessGone
-0:38:23 Browser8 Close Tab8 at 0
-0:38:23 Tab8 WebContentsDestroyed
-0:38:23 Microsoft.Shutdown.OnWindowClosing
-0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-0:38:23 Widget Closed: BrowserFrame
-0:38:23 Microsoft.Shutdown.OnWindowClosing
-0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-0:38:23 Microsoft.Browser_Removed
-0:38:23 Microsoft.Shutdown.OnWindowClosing
-0:38:23 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
-0:38:23 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
-0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-0:38:23 Tab1 RenderProcessGone
-0:38:23 Browser1 Close Tab1 at 0
-0:38:23 Tab1 WebContentsDestroyed
-0:38:23 Microsoft.Shutdown.OnWindowClosing
-0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-0:38:23 Widget Closed: BrowserFrame
-0:38:23 Microsoft.Shutdown.OnWindowClosing
-0:38:23 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-0:38:23 Microsoft.Last_Browser_Removed
-0:38:23 Microsoft.Shutdown.ShutdownIfNoBrowsers
-0:38:23 Microsoft.Shutdown.SetTryingToQuit_Quitting
-0:38:23 Microsoft.Shutdown.NotifyAppTerminating
-0:38:23 Microsoft.Shutdown.OnAppExiting
-0:38:23 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
-0:38:23 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
-0:38:23 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
-0:38:23 Shutdown
+0:32:01 Tab9 StartNav35 #typed
+0:32:01 Tab9 FinishNav35
+0:32:01 Tab9 PageLoad
+0:32:16 Tab9 StartNav36 #typed
+0:32:16 Tab9 FinishNav36
+0:32:16 Tab9 PageLoad
+0:32:21 Tab9 StartNav37 #typed
+0:32:21 Tab9 FinishNav37
+0:32:21 Tab9 PageLoad
+0:32:23 Tab9 StartNav38 #typed
+0:32:23 Tab9 FinishNav38
+0:32:23 Tab9 PageLoad
+0:32:24 Tab9 StartNav39 #typed
+0:32:24 Tab9 FinishNav39
+0:32:24 Tab9 PageLoad
+0:32:33 Tab9 StartNav40 #typed
+0:32:33 Tab9 FinishNav40
+0:32:33 Tab9 PageLoad
+0:32:36 Tab9 StartNav41 #typed
+0:32:36 Tab9 FinishNav41
+0:32:36 Tab9 PageLoad
+0:32:50 Tab9 StartNav42 #typed
+0:32:50 Tab9 FinishNav42
+0:32:50 Tab9 PageLoad
+0:34:42 Tab9 StartNav43 #typed
+0:34:42 Tab9 FinishNav43
+0:34:42 Tab9 PageLoad
+0:34:44 Tab9 StartNav44 #typed
+0:34:44 Tab9 FinishNav44
+0:34:44 Tab9 PageLoad
+0:34:47 Tab9 StartNav45 #typed
+0:34:47 Tab9 FinishNav45
+0:34:47 Tab9 PageLoad
+0:34:55 Tab9 StartNav46 #typed
+0:34:55 Tab9 FinishNav46
+0:34:55 Tab9 PageLoad
+0:35:10 Tab9 StartNav47 #typed
+0:35:10 Tab9 FinishNav47
+0:35:10 Tab9 PageLoad
+0:35:15 Microsoft.Shutdown.OnWindowClosing
+0:35:15 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:35:15 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:35:15 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:15 Tab9 RenderProcessGone
+0:35:15 Browser9 Close Tab9 at 0
+0:35:15 Tab9 WebContentsDestroyed
+0:35:15 Microsoft.Shutdown.OnWindowClosing
+0:35:15 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:15 Widget Closed: BrowserFrame
+0:35:15 Microsoft.Shutdown.OnWindowClosing
+0:35:15 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:15 Microsoft.Browser_Removed
+0:35:58 Microsoft.NewBrowser_Popup
+0:35:58 Microsoft.BrowserList.AddBrowser
+0:35:58 Browser10 Insert active Tab10 at 0
+0:35:58 Tab10 StartNav48 #auto_toplevel
+0:35:58 Tab10 StartNav49 #typed
+0:35:58 Tab10 FinishNav48
+0:35:58 Tab10 PageLoad
+0:35:58 Tab10 FinishNav49
+0:35:58 Tab10 PageLoad
+0:35:59 Tab10 StartNav50 #typed
+0:35:59 Tab10 FinishNav50
+0:35:59 Tab10 PageLoad
+0:36:00 Tab10 StartNav51 #typed
+0:36:00 Tab10 FinishNav51
+0:36:00 Tab10 PageLoad
+0:36:08 Tab10 StartNav52 #typed
+0:36:08 Tab10 FinishNav52
+0:36:08 Tab10 PageLoad
+0:36:09 Tab10 StartNav53 #typed
+0:36:09 Tab10 FinishNav53
+0:36:09 Tab10 PageLoad
+0:36:14 Tab10 StartNav54 #typed
+0:36:14 Tab10 FinishNav54
+0:36:14 Tab10 PageLoad
+0:36:15 Tab10 StartNav55 #typed
+0:36:15 Tab10 FinishNav55
+0:36:15 Tab10 PageLoad
+0:36:27 Tab10 StartNav56 #typed
+0:36:27 Tab10 FinishNav56
+0:36:27 Tab10 PageLoad
+0:36:35 Tab10 StartNav57 #typed
+0:36:35 Tab10 FinishNav57
+0:36:35 Tab10 PageLoad
+0:36:37 Tab10 StartNav58 #typed
+0:36:37 Tab10 FinishNav58
+0:36:37 Tab10 PageLoad
+0:36:43 Tab10 StartNav59 #typed
+0:36:43 Tab10 FinishNav59
+0:36:43 Tab10 PageLoad
+0:37:00 Tab10 StartNav60 #typed
+0:37:00 Tab10 FinishNav60
+0:37:00 Tab10 PageLoad
+0:37:00 Tab10 StartNav61 #typed
+0:37:00 Tab10 FinishNav61
+0:37:00 Tab10 PageLoad
+0:37:06 Tab10 StartNav62 #typed
+0:37:06 Tab10 FinishNav62
+0:37:06 Tab10 PageLoad
+0:37:15 Tab10 StartNav63 #typed
+0:37:15 Tab10 FinishNav63
+0:37:15 Tab10 PageLoad
+0:37:15 Tab10 StartNav64 #typed
+0:37:15 Tab10 FinishNav64
+0:37:15 Tab10 PageLoad
+0:37:19 Tab10 StartNav65 #typed
+0:37:19 Tab10 FinishNav65
+0:37:19 Tab10 PageLoad
+0:37:21 Tab10 StartNav66 #typed
+0:37:21 Tab10 FinishNav66
+0:37:21 Tab10 PageLoad
+0:37:30 Tab10 StartNav67 #typed
+0:37:31 Tab10 FinishNav67
+0:37:31 Tab10 PageLoad
+0:37:43 Tab10 StartNav68 #typed
+0:37:43 Tab10 FinishNav68
+0:37:43 Tab10 PageLoad
+0:37:45 Tab10 StartNav69 #typed
+0:37:45 Tab10 FinishNav69
+0:37:45 Tab10 PageLoad
+0:37:46 Tab10 StartNav70 #typed
+0:37:46 Tab10 FinishNav70
+0:37:46 Tab10 PageLoad
+0:37:58 Tab10 StartNav71 #typed
+0:37:58 Tab10 FinishNav71
+0:37:58 Tab10 PageLoad
+0:38:00 Tab10 StartNav72 #typed
+0:38:00 Tab10 FinishNav72
+0:38:00 Tab10 PageLoad
+0:38:02 Tab10 StartNav73 #typed
+0:38:02 Tab10 FinishNav73
+0:38:02 Tab10 PageLoad
+0:38:08 Tab10 StartNav74 #typed
+0:38:08 Tab10 FinishNav74
+0:38:08 Tab10 PageLoad
+0:38:11 Tab10 StartNav75 #typed
+0:38:11 Tab10 FinishNav75
+0:38:11 Tab10 PageLoad
+0:38:34 Tab10 StartNav76 #typed
+0:38:34 Tab10 FinishNav76
+0:38:34 Tab10 PageLoad
+0:40:18 Microsoft.Shutdown.OnWindowClosing
